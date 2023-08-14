@@ -1,2 +1,2 @@
 # WebKriti
- WebKriti web development porject
+ WebKriti web development project
